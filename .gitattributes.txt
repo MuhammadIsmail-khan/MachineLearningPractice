@@ -1,0 +1,5 @@
+# Set default behavior to normalize line endings for all files
+* text=auto
+
+# Explicitly declare files that should use LF line endings on all platforms
+*.csv text eol=lf
